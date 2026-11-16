@@ -1,0 +1,2 @@
+# smart-sub-tutor
+Open-Source RAG Subject Tutor with Adaptive Learning Styles 
